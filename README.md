@@ -22,13 +22,8 @@ Busco transformar meu conhecimento acadêmico em projetos reais e performáticos
 
 ---
 
-### 📊 Estatísticas no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flavingimenes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavingimenes&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs" />
-</div>
----
-
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gflavio581@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviogimeness)
+
+
