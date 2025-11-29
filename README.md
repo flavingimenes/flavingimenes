@@ -23,9 +23,10 @@ Busco transformar meu conhecimento acadêmico em projetos reais e performáticos
 ---
 
 ### 📊 Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flavingimenes&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavingimenes&layout=compact&theme=dracula)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flavingimenes&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavingimenes&layout=compact&theme=dracula&hide_border=true" height="180" alt="langs" />
+</div>
 ---
 
 ### 📫 Contato
